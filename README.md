@@ -1,2 +1,2 @@
-# javascript
-learning 
+# FRIENDS
+PROJECT
